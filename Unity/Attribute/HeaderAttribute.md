@@ -1,8 +1,6 @@
 HeaderAttribute
 ===============
 
-Unity Inspector에 header를 붙여준다.
-
 ```C#
 [Header("HeaderAttribute")]
 public int include_Header;
