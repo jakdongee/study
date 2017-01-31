@@ -2,9 +2,9 @@ HeaderAttribute
 ===============
 
 ```C#
-public class TestAttribute : MonoBehaviour
+public class Test_HeaderAttribute : MonoBehaviour
 {
-    [Header("HeaderAttribute")]
+    [Header("- HeaderAttribute")]
     public int include_Header;
 }
 ```
